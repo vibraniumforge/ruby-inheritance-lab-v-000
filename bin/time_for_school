@@ -24,4 +24,4 @@ steve.learn(some_knowledge)
 steve.learn("Hello")
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
-puts steve.learn("Hello")
+# puts steve.learn("Hello")
